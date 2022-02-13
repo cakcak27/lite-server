@@ -27,16 +27,16 @@
   },
   "homepage": "https://github.com/johnpapa/lite-server#readme",
   "dependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.27.7",
     "connect-history-api-fallback": "^1.6.0",
     "connect-logger": "^0.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5"
   },
   "devDependencies": {
-    "eslint": "^7.13.0",
+    "eslint": "^8.9.0",
     "istanbul": "^0.4.5",
-    "mocha": "^8.2.1",
+    "mocha": "^9.2.0",
     "mockery": "^2.1.0",
     "sinon": "^9.2.1"
   }
